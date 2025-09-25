@@ -1,6 +1,11 @@
-{
+In .vscode/settings.json:
+
+> +    "dart.lineLength": 80,
++    "editor.rulers": [80],{
   "npm.packageManager": "pnpm",
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "typescript.tsdk": "node_modules/typescript/lib",
   "prettier.prettierPath": "node_modules/prettier/index.js"
 }
+> +    "dart.lineLength": 80,
++    "editor.rulers": [80],
