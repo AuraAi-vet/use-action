@@ -15,7 +15,7 @@
     "@depot/actions-public-oidc-client": "^0.1.0",
     "csv-parse": "^5.3.6",
     "execa": "^7.1.1",
-    "handlebars": "^4.7.7"
+    "handlebars": "^4.7.9"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.3",
